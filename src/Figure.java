@@ -33,6 +33,11 @@ public class Figure {
     public int getY() {
         return y;
     }
+
+    @Override
+    public String toString() {
+        return "Figure{" + "color=" + color + ", x=" + x + ", y=" + y + '}';
+    }
     
     
     
