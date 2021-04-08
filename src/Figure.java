@@ -36,7 +36,7 @@ public class Figure {
 
     @Override
     public String toString() {
-        return "Figure{" + "color=" + color + ", x=" + x + ", y=" + y + '}';
+        return "Figure{" + "color=" + color + ", x=" + x + ", y=" + y ;
     }
     
     
